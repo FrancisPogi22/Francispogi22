@@ -41,6 +41,7 @@
   <a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>
-  <a href="https://bitbucket.org"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Visual Studio Code" width="40" height="40"/></a>
+  <a href="https://shopify.github.io/"><img src="https://github.com/episerver/liquid-templating-cms/blob/main/opti-liquid-logo.png" title="Liquid" alt="Visual Studio Code" width="40" height="40"/></a>
+  <a href="https://bitbucket.org"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/></a>
 </p>
 
