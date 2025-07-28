@@ -10,7 +10,9 @@
 - 📫 How to reach me **https://www.facebook.com/francismanuel.cabusas.7**
 
 <h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francispogi22&show_icons=true&theme=synthwave&title_color=eab308&text_color=888888&locale=en&layout=compact" alt="francispogi22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francispogi22&show_icons=true&theme=synthwave&title_color=eab308&text_color=888888&locale=en&layout=compact" alt="francispogi22" />
+</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francispogi22&show_icons=true&theme=radical)
 
 <details>
   <summary>📃 Resume</summary>
@@ -65,5 +67,3 @@
   <a href="https://www.atlassian.com/software/jira"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/></a>
   <a href="https://www.postman.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/></a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francispogi22&show_icons=true&theme=radical)
