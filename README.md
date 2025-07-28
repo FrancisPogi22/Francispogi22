@@ -30,16 +30,16 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://wordpress.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/></a>
   <a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/></a>
+  <a href="https://woocommerce.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Woocomerce" alt="Woocomerce" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://shopify.github.io/"><img src="https://github.com/episerver/liquid-templating-cms/blob/main/opti-liquid-logo.png" title="Liquid" alt="Visual Studio Code" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>
-  <a href="https://shopify.github.io/"><img src="https://github.com/episerver/liquid-templating-cms/blob/main/opti-liquid-logo.png" title="Liquid" alt="Visual Studio Code" width="40" height="40"/></a>
   <a hrefh="ttps://bitbucket.org"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/></a>
   <a href="https://www.postman.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/></a>
-  <a href="https://woocommerce.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Woocomerce" alt="Woocomerce" width="40" height="40"/></a>
 </p>
 
