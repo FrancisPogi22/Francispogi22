@@ -59,7 +59,7 @@
   <a href="https://shopify.github.io/"><img src="https://github.com/episerver/liquid-templating-cms/blob/main/opti-liquid-logo.png" title="Liquid" alt="Visual Studio Code" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" style="width: 40px; height: 40px; margin-right: 45px; margin-bottom: 0px;" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>
   <a hrefh="ttps://bitbucket.org"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/></a>
