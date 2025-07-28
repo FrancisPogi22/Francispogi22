@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francis Cabusas</h1>
+<h1 align="center">Hi 👋, I'm Francis Cabusas 👨‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francispogi22&label=Profile%20views&color=eab308&style=flat" alt="francispogi22" /> </p>
 
 - 🔭 I’m currently working on **Shopify**
