@@ -60,9 +60,9 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bec99373eecc44d004e879a81859c87ae8e86c5cabfb7fcfb5d7a38eb399ca7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img align="right" src="https://camo.githubusercontent.com/bec99373eecc44d004e879a81859c87ae8e86c5cabfb7fcfb5d7a38eb399ca7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React_Native-20232A?logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/caf67c75c4396c6bf4db90a862e902b7bed2440a3ecf3097521fbbd4ec5aa73a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"><img align="right" src="https://camo.githubusercontent.com/caf67c75c4396c6bf4db90a862e902b7bed2440a3ecf3097521fbbd4ec5aa73a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
   <ul dir="auto">
-    <li>👨‍💻 <strong>Cross Mobile Developer</strong><br>
-    📆 2023 - moment<br>
-    📍 <strong>AB InBev</strong> - Campinas/SP, Brazil</li>
+    <li>👨‍💻 <strong>Web Developer</strong><br>
+    📆 2025 - moment<br>
+    📍 <strong>Creative Bananas</strong> - Mamatid City, Philippines</li>
   </ul>
 </details>
 
