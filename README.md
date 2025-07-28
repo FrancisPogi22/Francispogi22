@@ -10,10 +10,12 @@
 - 📫 How to reach me **https://www.facebook.com/francismanuel.cabusas.7**
 
 <h3 align="left">Stats:</h3>
+<div style="display: flex;">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francispogi22&show_icons=true&theme=synthwave&title_color=eab308&text_color=888888&locale=en&layout=compact" alt="francispogi22" />
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francispogi22&show_icons=true&theme=radical)
+</div>
 
 <details>
   <summary>📃 Resume</summary>
