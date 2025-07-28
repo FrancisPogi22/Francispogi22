@@ -12,8 +12,6 @@
 <h3 align="left">Stats:</h3>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francispogi22&show_icons=true&theme=synthwave&title_color=eab308&text_color=888888&locale=en&layout=compact" alt="francispogi22" />
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francispogi22&show_icons=true&theme=radical)
 </p>
 
 <details>
