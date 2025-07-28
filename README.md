@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/francismanuel.cabusas.7" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=Facebook&label=&color=1e90ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Expertise:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/></a>
@@ -40,7 +40,6 @@
   <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>
   <a href="https://shopify.github.io/"><img src="https://github.com/episerver/liquid-templating-cms/blob/main/opti-liquid-logo.png" title="Liquid" alt="Visual Studio Code" width="40" height="40"/></a>
   <a hrefh="ttps://bitbucket.org"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/></a>
-  <a href="#!"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/></a>
   <a href="#!"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40"/></a>
   <a href="#!"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/></a>
   <a href="#!"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/></a>
