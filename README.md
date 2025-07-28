@@ -66,4 +66,4 @@
   <a href="https://www.postman.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/></a>
 </p>
 
-<div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="30" style="width: 30px; height: 30px; margin-right: 0px; margin-bottom: 0px;" /></div>
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 23px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" /></div>
