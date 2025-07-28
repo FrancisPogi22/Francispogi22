@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/francismanuel.cabusas.7" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=Facebook&label=&color=1e90ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" /></a>
+<a mailto="cabusasfg779@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="email logo" /></a>
 </p>
 
 <h3 align="left">My Expertise and Tools:</h3>
