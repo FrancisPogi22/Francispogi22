@@ -47,8 +47,8 @@
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" style="width: 40px; height: 40px; margin-right: 45px; margin-bottom: 0px;" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" style="width: 40px; height: 40px; margin-right: 0px; margin-bottom: 0px;" /></a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 45px; margin-bottom: 0px;" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 0px; margin-bottom: 0px;" /></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/laravel/art/blob/master/laravel-logo.png" title="Laravel" alt="Laravel" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
@@ -59,7 +59,7 @@
   <a href="https://shopify.github.io/"><img src="https://github.com/episerver/liquid-templating-cms/blob/main/opti-liquid-logo.png" title="Liquid" alt="Visual Studio Code" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" style="width: 40px; height: 40px; margin-right: 45px; margin-bottom: 0px;" /></a>
+  <a href="https://git-scm.com/"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" style="width: 50px; height: 50px; margin-right: 45px; margin-bottom: 0px;" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>
   <a hrefh="ttps://bitbucket.org"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/></a>
